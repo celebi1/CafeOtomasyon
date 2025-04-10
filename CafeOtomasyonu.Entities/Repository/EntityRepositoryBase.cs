@@ -45,3 +45,4 @@ namespace CafeOtomasyonu.Entities.Repository
 }
 // TContext : Veritabanı bağlantısını temsıl eden DbContext türevi sınıf
 // TEntity : Veritabanı tablosunu temsıl eden sınıf(Ornegın urun falan)
+// IEntitiyRepository : Generic repository pattern
